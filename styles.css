@@ -3,6 +3,7 @@ html {
 }
 body {
     font-size: 1rem;
+    background-image: url(images.jpg);
 }
 .container {
     width: 80%;
